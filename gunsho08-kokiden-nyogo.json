@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokiden-nyogo-utaawase",
  "yomi": "こきでんのにょうごじゅうばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番）",
+  "era": "長久2年（1041）2月18日",
+  "author": "主催 弘徽殿女御／判者 藤原義忠",
+  "desc": "後朱雀天皇の弘徽殿女御のもとで催された十番の歌合。歌を選ぶ役を左は相模、右は侍従乳母がつとめ、大和守藤原義忠が判をした。霞・柳などの題で番える。"
+ },
  "editions": [
   {
    "pid": "1879502",
